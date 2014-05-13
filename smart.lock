@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-wkhtmltopdf": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "meteor-wkhtmltopdf": {
+        "path": "."
+      }
+    }
+  }
+}
